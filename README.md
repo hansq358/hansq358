@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hansq358
 - 👀 I’m interested in statistics.
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently learning biostatistics and data science.
 - 📫 Contact me s.han@umail.leidenuniv.nl
 
 <!---
