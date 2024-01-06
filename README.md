@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hansq358
-- 👀 I’m interested in statistics.
-- 🌱 I’m currently learning statistics and data science.
-- 📫 Contact me s.han@umail.leidenuniv.nl
+- 👋 Hi, I’m Songqiao Han.
+- 👀 I’m interested in statistics, design of experiment, and machine learning.
+- 🌱 I’m currently doing my PhD at King's College London.
+- 📫 Contact me songqiao.han@kcl.ac.uk
 
 <!---
 hansq358/hansq358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
